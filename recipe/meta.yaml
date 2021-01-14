@@ -1,5 +1,5 @@
 {% set name = "specclassify" %}
-{% set version = "0.2.8" %}
+{% set version = "0.2.9" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/specclassify-{{ version }}.tar.gz
-  sha256: f87b42d2d3ca8bfbd16aca2c73a6aea5ba9369d019bdf292c80043c0a4e79f01
+  sha256: e931d31cd36ebf7377025a71d71ceecbf08653b52ee9725d273d2b33db4b0764
 
 build:
   number: 0
