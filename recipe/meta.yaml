@@ -18,13 +18,13 @@ build:
 requirements:
   host:
     - pip
-    - python>=3.6
+    - python >=3.6
   run:
     - geoarray >=0.15.0
     - matplotlib-base
     - numpy
     - py-tools-ds >=0.18.0
-    - python>=3.6
+    - python >=3.6
     - scikit-learn
     - tqdm
 
